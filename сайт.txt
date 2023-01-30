@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta description="This site about my cat">
+<title>house work</title>
+</head>
+<link rel="stylesheet" href="../CSS/Style.css>
+<body>
+<h1>Short history about my cat cat</h1>
+<img src="/cat.jpg" alt="my cat" width="20%" height="50%">
+<p class="main">This cat name Basia.She is very lazy and voracious.
+<br>She font realy like people or some pets</br></p>
+<a>If you want to know more about thise breed tick to the link</a>
+<a href="https://www.historic-uk.com/CultureUK/Cat-History-Of-Britain/">
+<i>tick here</i></a>
+<a>or u actually can use google </a>
+<select name="other sites">
+<option value=""Google></option>
+</select>
+<br>In the last thing u can chose do u like this site or no</br>
+<label for="Yes" class="right_choice">Yes</label>
+<input type="radio" chose="Yes" name="bool">
+<label for="No" class="wrong_choice">No</label>
+<input type="radio" chose="No" name="bool">
+<p><button>send resault</button></p>
+<p><h5 id="end">you can actually call me, my telephone is 911</h5></p>
+</body>
+</html>
